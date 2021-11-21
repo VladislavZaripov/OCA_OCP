@@ -1,0 +1,13 @@
+﻿----------------------------------------------------------------
+Tue Dec 17 22:53:08 MSK 2019:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): экземпляр a816c00e-016f-156b-dbc9-000002c55d60
+в каталоге базы данных C:\Users\Танюшка\Desktop\Java\JavaRush\Проекты\New Project\zoo sun.misc.Launcher$AppClassLoader@18b4aac2 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Танюшка\Desktop\Java\Обучение\Java\Проекты\New Project
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Запущен загрузчик классов базы данных - derby.database.classpath=''
